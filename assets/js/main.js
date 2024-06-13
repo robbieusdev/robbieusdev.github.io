@@ -148,4 +148,4 @@
     $('.venobox').venobox();
   });
 
-})(jQuery);
+})($);
